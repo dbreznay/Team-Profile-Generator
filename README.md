@@ -21,8 +21,8 @@ How do you deliver this? Here are some guidelines:
 
 * Below is an example of what the application looks like.
 
-![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
-![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
+![Employee Summary 1]<img width="1427" alt="10-OOP-homework-demo-1" src="https://user-images.githubusercontent.com/60904436/87896621-6751fa00-ca0e-11ea-9db5-92ee23066345.png">)
+![Employee Summary 2](<img width="1424" alt="10-OOP-homework-demo-2" src="https://user-images.githubusercontent.com/60904436/87896681-8e103080-ca0e-11ea-9140-fa54c2e24c3c.png">)
 
 
 ```
