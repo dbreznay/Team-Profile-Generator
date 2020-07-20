@@ -23,7 +23,7 @@ How do you deliver this? Here are some guidelines:
 
 * Link to the video walkthrough [Here]
 
-<img width="1427" alt="10-OOP-homework-demo-1" src="https://user-images.githubusercontent.com/60904436/87896621-6751fa00-ca0e-11ea-9db5-92ee23066345.png">
+(https://user-images.githubusercontent.com/60904436/87900030-b4d36480-ca18-11ea-98e6-b930fd1f38f3.png)
 
 ```
 
