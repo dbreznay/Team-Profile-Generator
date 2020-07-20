@@ -21,7 +21,9 @@ How do you deliver this? Here are some guidelines:
 
 * Below is an example of what the application looks like.
 
-![Employee Summary 1]<img width="1427" alt="10-OOP-homework-demo-1" src="https://user-images.githubusercontent.com/60904436/87896621-6751fa00-ca0e-11ea-9db5-92ee23066345.png">)
+* Link to the video walkthrough [Here]
+
+<img width="1427" alt="10-OOP-homework-demo-1" src="https://user-images.githubusercontent.com/60904436/87896621-6751fa00-ca0e-11ea-9db5-92ee23066345.png">
 
 ```
 
