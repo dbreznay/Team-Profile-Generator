@@ -21,7 +21,7 @@ How do you deliver this? Here are some guidelines:
 
 * Below is an example of what the application looks like.
 
-* Link to the video walkthrough [Here]
+* Link to the video walkthrough [Here](https://drive.google.com/file/d/1LCs12I9OHyeE1DPczaSxV5AGcGJGkLuO/view)
 
 (https://user-images.githubusercontent.com/60904436/87900030-b4d36480-ca18-11ea-98e6-b930fd1f38f3.png)
 
